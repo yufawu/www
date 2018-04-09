@@ -3,7 +3,7 @@
 'use strict';
 var Hogan = require('hogan.js');
 var conf = {
-    serverHost : 'http://happymmall.com'
+    serverHost : ''
 };
 var _mm = {
     // 网络请求
